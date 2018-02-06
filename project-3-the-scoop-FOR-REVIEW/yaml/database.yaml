@@ -1,0 +1,36 @@
+users:
+  davey@themill.om:
+    username: davey@themill.om
+    articleIds:
+      - 1
+    commentIds:
+      - 10
+articles:
+  '1':
+    id: 1
+    title: asdf
+    url: asdf
+    username: davey@themill.om
+    commentIds:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 10
+    upvotedBy: []
+    downvotedBy: []
+    comments: []
+comments:
+  '1': null
+  '2': null
+  '3': null
+  '4': null
+  '5': null
+  '6': null
+  '7': null
+  '8': null
+  '9': null
+  '10': null
+nextArticleId: 2
+nextCommentId: 11
